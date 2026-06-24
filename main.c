@@ -1,9 +1,12 @@
 #include <stdio.h>
 #include <string.h>
 
-typedef struct main
+typedef struct studentinformation
 {
-    /* data */
+    int id;
+    char name[50];
+    int age;
+    float gpa;
 };
 
 int main() {
