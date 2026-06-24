@@ -7,9 +7,10 @@ typedef struct studentinformation
     char name[50];
     int age;
     float gpa;
-};
+} Student;
 
-int main() {
-    
+int main()
+{
+
     return 0;
 }
