@@ -32,6 +32,14 @@ int main()
     scanf("%d", &starting_choice);
     printf("\n");
 
+    switch (starting_choice)
+    {
+    case 1:
+        
+        break;
     
+    default:
+        break;
+    }
     return 0;
 }
