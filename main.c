@@ -12,7 +12,9 @@ typedef struct studentinformation
 int main()
 {
     Student info[100];
-
+    
+    int starting_choice;
+    
     printf("\n");
     printf("|=========================|\n");
     printf("|          MENU           |\n");
