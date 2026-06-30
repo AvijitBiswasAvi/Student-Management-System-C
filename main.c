@@ -24,7 +24,7 @@ int studentCount = 0;
 void showMenu(void);
 void addStudent(void);
 void displayAllStudents(void);
-int findStudentIndexById(int id);   /* linear search, returns -1 if not found */
+int findStudentIndexById(int id);   
 void searchStudentById(void);
 void updateStudent(void);
 void deleteStudent(void);
