@@ -1,20 +1,3 @@
-/*
- * Student Management System
- * ---------------------------
- * Features:
- *  - Add student records
- *  - Display all students
- *  - Search student by ID
- *  - Update student information
- *  - Delete student records
- *  - Save data to a file
- *  - Load data from a file when the program starts
- *
- * Concepts practiced:
- *  - Structures, Arrays of structures, Functions,
- *    Strings, File handling, Searching, Menu-driven programming
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
