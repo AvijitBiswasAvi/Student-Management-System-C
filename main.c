@@ -117,7 +117,6 @@ void getValidString(const char *prompt, char *buffer, int size) {
         buffer[len - 1] = '\0';
     }
 }
-
 /* ---------- Add Student ---------- */
 void addStudent(void) {
     if (studentCount >= MAX_STUDENTS) {
