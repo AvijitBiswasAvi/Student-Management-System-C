@@ -4,6 +4,7 @@ A simple, menu-driven **Student Management System** built in C. It lets you add,
 
 This project is a classic beginner/intermediate C exercise that combines several core concepts into one working application.
 
+
 ## Features
 
 - Add student records (ID, name, course, marks)
