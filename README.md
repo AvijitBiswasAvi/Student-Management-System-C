@@ -77,7 +77,6 @@ When you run the program, you'll see a menu like this:
 ===================================
 Enter your choice:
 ```
-
 Enter a number to choose an action. Data is automatically loaded from `students.dat` at startup (if the file exists) and automatically saved when you exit (option `0`). You can also save manually at any time with option `6`.
 
 ### Example Workflow
